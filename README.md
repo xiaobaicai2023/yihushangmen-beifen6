@@ -2,7 +2,7 @@
 
 医护__医护小程序_医护到家_医护预约_上门陪护_上门护理_上门医护_医护上门..
 
-# 技术栈
+# 技术栈.
 
 后台服务 springboot+mybatisplus+mysql 用户端 uniapp（vue语法） 管理后台 vue+elementUi
 
